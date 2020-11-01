@@ -1,0 +1,10 @@
+name: DoubleA-Sumo
+version: ${project.version}
+main: com.andrew121410.mc.doubleasumo.DoubleASumo
+api-version: 1.16
+authors: [ Andrew121410 ]
+description: Sumo plugin for Double-A Network.
+depend: [ DoubleA-Hub ]
+
+commands:
+  sumo:
